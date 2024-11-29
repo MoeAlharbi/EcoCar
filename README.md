@@ -55,12 +55,13 @@ python project_script.py
 ## Project Structure
 ```
 EcoCar/
-│
 ├── EcoCar.py                  # Main script containing all project code
 ├── README.md                  # Project documentation
 ├── requirements.txt           # Dependencies for the project
-├── /data                      # Folder for dataset
-   └── CO2_Emissions_Canada.csv
+├── /data                      # Empty folder for dataset
+│   └── .gitkeep               # Empty file to keep the folder
+├── .gitignore                 # Files and folders to ignore in Git
+
 ```
 
 ---
