@@ -110,7 +110,5 @@ EcoCar/
 ## Acknowledgments
 - Dataset provided by [Kaggle](https://www.kaggle.com/).
 - Project inspired by the goal of sustainable transportation and reducing vehicle emissions.
-```
 
----
 
