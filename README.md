@@ -34,8 +34,15 @@ pip install -r requirements.txt
 ```
 
 ### 3. Download the Dataset
-- Source: [Kaggle CO2 Emissions Dataset](https://www.kaggle.com/datasets/debajyotipodder/co2-emission-by-vehicles)
-- Save the dataset as `CO2_Emissions_Canada.csv` and place it in the `/data` folder.
+
+The dataset used for this project is **CO2 Emissions by Vehicles**, which can be downloaded from Kaggle:
+
+- [CO2 Emissions by Vehicles Dataset on Kaggle](https://www.kaggle.com/datasets/debajyotipodder/co2-emission-by-vehicles)
+
+Once downloaded, save the `CO2_Emissions_Canada.csv` file into the `/data` folder in the project directory.
+
+The `/data` folder is created and can be found in this repository, but it contains no data files. You will need to manually download the dataset and place it there.
+
 
 ### 4. Run the Script
 To run the project and view results:
