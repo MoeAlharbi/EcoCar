@@ -108,7 +108,7 @@ EcoCar/
 ---
 
 ## Acknowledgments
-- Dataset provided by [Kaggle](https://www.kaggle.com/).
+- Dataset provided by [Kaggle](https://www.kaggle.com/datasets/debajyotipodder/co2-emission-by-vehicles).
 - Project inspired by the goal of sustainable transportation and reducing vehicle emissions.
 
 
