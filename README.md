@@ -53,9 +53,7 @@ EcoCar/
 ├── README.md                  # Project documentation
 ├── requirements.txt           # Dependencies for the project
 ├── /data                      # Folder for dataset
-│   └── CO2_Emissions_Canada.csv
-├── /visualizations            # (Optional) Save generated plots here
-└── .gitignore                 # Files and folders to ignore in Git
+   └── CO2_Emissions_Canada.csv
 ```
 
 ---
